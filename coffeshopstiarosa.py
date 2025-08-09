@@ -4,7 +4,7 @@
 #aluno  : Joao Henrique Gomes Lima
 #Turma  : EADADS3A
 #Criacao: 20250805.1227
-__versao__ = 20250808.1026
+
 
 import os, json
 from datetime import date
@@ -127,6 +127,7 @@ def listarClientes(clientes):
     for id_cliente, dados in sorted(clientes.items(),key=lambda item: item[1]['clinome']):
         print(f" {int(id_cliente):02} {dados['cpf']} {dados['clinome']}")
 
+#codigo de menu
 def main():
     opcao=1
     while opcao!=0:
@@ -147,9 +148,10 @@ def main():
         input('Aperte Enter para voltar')
 
 
-#Mensagem de finalização
+#rodar programa
 if __name__== "__main__":
     main()
+    #mensagem de finalização
     print("\n Tchau!")
 
 
