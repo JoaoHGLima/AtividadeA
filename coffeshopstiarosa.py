@@ -149,10 +149,9 @@ def main():
 
 
 #rodar programa
-if __name__== "__main__":
-    main()
-    #mensagem de finalização
-    print("\n Tchau!")
+main()
+#mensagem de finalização
+print("\n Tchau!")
 
 
 
