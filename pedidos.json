@@ -1,0 +1,91 @@
+{
+    "1": {
+        "pedido": "1",
+        "data": "20250724",
+        "clicpf": "12732043400",
+        "clinome": "Clauber Lima",
+        "produtos": [
+            2,
+            3,
+            5,
+            1
+        ]
+    },
+    "2": {
+        "pedido": 2,
+        "data": "20250723",
+        "clicpf": "98734493410",
+        "clinome": "Joao Henrique",
+        "produtos": [
+            2,
+            4,
+            8,
+            1,
+            7
+        ]
+    },
+    "3": {
+        "pedido": 3,
+        "data": "20250801",
+        "clicpf": "23489345212",
+        "clinome": "Carolina Lima",
+        "produtos": [
+            7,
+            4,
+            3,
+            8,
+            1,
+            2
+        ]
+    },
+    "4": {
+        "pedido": 4,
+        "data": "20250802",
+        "clicpf": "1231231",
+        "clinome": "wew",
+        "produtos": [
+            2
+        ]
+    },
+    "5": {
+        "pedido": 5,
+        "data": "20250802",
+        "clicpf": "",
+        "clinome": "",
+        "produtos": [
+            10,
+            11,
+            11
+        ]
+    },
+    "6": {
+        "pedido": 6,
+        "data": "20250802",
+        "clicpf": "1214124124",
+        "clinome": "wew",
+        "produtos": [
+            1,
+            1
+        ]
+    },
+    "7": {
+        "pedido": 7,
+        "data": "20250802",
+        "clicpf": "512512515",
+        "clinome": "GFRFT",
+        "produtos": [
+            11,
+            3
+        ]
+    },
+    "8": {
+        "pedido": 8,
+        "data": "20250808",
+        "clicpf": "1231231",
+        "clinome": "T",
+        "produtos": [
+            2,
+            3
+        ]
+    }
+}

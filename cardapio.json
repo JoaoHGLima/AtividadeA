@@ -1,0 +1,47 @@
+{
+    "1": {
+        "prodnome": "Cafe Expresso",
+        "ingredientes": "cafe moído agua quente",
+        "preco": 5.5
+    },
+    "2": {
+        "prodnome": "Cafe Cappuccino",
+        "ingredientes": "cafe expresso, leite vaporizado, espuma de leite, canela",
+        "preco": 8.9
+    },
+    "3": {
+        "prodnome": "Cafe com Leite",
+        "ingredientes": "cafe expresso, leite vaporizado",
+        "preco": 9.5
+    },
+    "4": {
+        "prodnome": "Cafe Mocha",
+        "ingredientes": "cafe expresso, leite, chocolate, chantilly",
+        "preco": 12.0
+    },
+    "5": {
+        "prodnome": "Cha Verde",
+        "ingredientes": "folhas de cha verde, água quente, mel (opcional)",
+        "preco": 7.0
+    },
+    "7": {
+        "prodnome": "Toddy",
+        "ingredientes": "Toddy e leite",
+        "preco": 4.0
+    },
+    "8": {
+        "prodnome": "Nescau",
+        "ingredientes": "Nescau e leite",
+        "preco": 4.0
+    },
+    "9": {
+        "prodnome": "Pao de Queijo",
+        "ingredientes": "Pao de Queijo",
+        "preco": 3.5
+    },
+    "10": {
+        "prodnome": "Coxinha",
+        "ingredientes": "Coxinha",
+        "preco": 4.5
+    }
+}
