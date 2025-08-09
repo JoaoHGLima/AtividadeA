@@ -43,7 +43,7 @@ def pegarProximoPedido(pedidos):
     ultimoPedido=max(numeros)
     return ultimoPedido+1
 
-#Item inexistente
+#carregar item
 def pegarDescItem(cardapio, numItem):
     item=cardapio.get(str(numItem))
     if item:
