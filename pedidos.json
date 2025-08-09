@@ -87,5 +87,25 @@
             2,
             3
         ]
+    },
+    "9": {
+        "pedido": 9,
+        "data": "20250809",
+        "clicpf": "1231231231",
+        "clinome": "Welli",
+        "produtos": [
+            3,
+            3
+        ]
+    },
+    "10": {
+        "pedido": 10,
+        "data": "20250809",
+        "clicpf": "1337",
+        "clinome": "C",
+        "produtos": [
+            2,
+            0
+        ]
     }
 }

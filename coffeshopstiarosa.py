@@ -102,8 +102,8 @@ def listarCardapio(cardapio):
         print(f" Ingredientes: {dados['ingredientes']}")
 
 #Lista de Pedidos
-def listarVendas(pedidos,cardapio):
-    TotalDoDia=0.0;
+def listarPedidos(pedidos,cardapio):
+    TotalTudo=0.0;
     print("Pedidos")
     for chave in pedidos:
         pedido=pedidos[chave]
@@ -118,8 +118,8 @@ def listarVendas(pedidos,cardapio):
             print(f" {prod_id} - {nome:<20} {preco:>6.2f}")
             total+=preco
         print(f"{'Total:'} {total:>6.2f}")
-        TotalDoDia+=total
-    print(f"{'Total do dia:'} {TotalDoDia:>6.2f}")
+        TotalTudo+=total
+    print(f"{'Total de Todos:'} {TotalTudo:>6.2f}")
 
 #Lista de Clientes
 def listarClientes(clientes):
@@ -141,10 +141,9 @@ def main():
         elif opcao==2:
             listarCardapio(cardapio)
         elif opcao==3:
-            listarVendas(pedidos,cardapio)
+            listarPedidos(pedidos,cardapio)
         elif opcao==4:
             listarClientes(clientes)
-        print()
         input('Aperte Enter para voltar')
 
 
